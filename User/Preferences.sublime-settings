@@ -1,0 +1,34 @@
+{
+	"Seti_sb_tree_miny": true,
+	"Seti_sidebar_font_size_10": true,
+	"Seti_tabs_small": true,
+	"Seti_yellow_tab": true,
+	"always_show_minimap_viewport": true,
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/User/Material-Theme (Flake8Lint).tmTheme",
+	"font_face": "Courier New",
+	"font_size": 11,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"line_padding_bottom": 3,
+	"line_padding_top": 3,
+	"material_theme_bullet_tree_indicator": true,
+	"material_theme_compact_panel": true,
+	"material_theme_compact_sidebar": true,
+	"material_theme_small_tab": true,
+	"material_theme_tabs_autowidth": true,
+	"material_theme_tabs_separator": true,
+	"overlay_scroll_bars": "enabled",
+	"theme": "Material-Theme.sublime-theme",
+	"material_theme_tree_headings"            : true,
+	"pep8_max_line_length": 120,
+}

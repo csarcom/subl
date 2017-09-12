@@ -1,0 +1,30 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"Anaconda",
+		"Djaneiro",
+		"EditorConfig",
+		"Git blame",
+		"GitGutter",
+		"HTML5",
+		"HTMLBeautify",
+		"Material Theme",
+		"Material Theme - Appbar",
+		"Materialize-Appbar",
+		"Package Control",
+		"PlainTasks",
+		"Python Flake8 Lint",
+		"requirementstxt",
+		"Seti_UI",
+		"Seti_UX",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"Theme - Piatto",
+		"Theme - Primer"
+	]
+}

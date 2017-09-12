@@ -1,0 +1,3 @@
+[
+	{ "keys": ["super+l"], "command": "toggle_side_bar" },
+]
